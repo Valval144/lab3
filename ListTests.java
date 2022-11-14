@@ -13,7 +13,7 @@ public class ListTests {
         List<String> result = new ArrayList<>();
         result.add("Cat");
         result.add("Horse");
-        sc.checkString(results);
+        sc.checkString(s);
         //System.out.println(result) (is it being added)
         assertArrayEquals(expected:result("dog", "frog"))
         result.sc.checkString(result);
